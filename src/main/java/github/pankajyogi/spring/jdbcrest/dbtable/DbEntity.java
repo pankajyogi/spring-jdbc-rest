@@ -1,4 +1,7 @@
 package github.pankajyogi.spring.jdbcrest.dbtable;
 
-public class DbEntity {
+import org.json.JSONObject;
+
+public class DbEntity extends JSONObject {
+
 }
