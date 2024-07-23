@@ -1,4 +1,4 @@
-package github.pankajyogi.spring.jdbcrest.dbtable;
+package com.github.pankajyogi.spring.jdbcrest.dbtable;
 
 public interface TableCrudService {
 

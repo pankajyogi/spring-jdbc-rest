@@ -1,4 +1,4 @@
-package github.pankajyogi.spring.jdbcrest.dbschema;
+package com.github.pankajyogi.spring.jdbcrest.dbschema;
 
 import lombok.extern.slf4j.Slf4j;
 import org.springframework.beans.factory.annotation.Autowired;

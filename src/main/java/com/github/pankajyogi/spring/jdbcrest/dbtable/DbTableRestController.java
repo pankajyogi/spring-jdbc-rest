@@ -1,7 +1,7 @@
-package github.pankajyogi.spring.jdbcrest.dbtable;
+package com.github.pankajyogi.spring.jdbcrest.dbtable;
 
 
-import github.pankajyogi.spring.jdbcrest.annotation.RestRequestController;
+import com.github.pankajyogi.spring.jdbcrest.annotation.RestRequestController;
 import lombok.extern.slf4j.Slf4j;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.http.ResponseEntity;

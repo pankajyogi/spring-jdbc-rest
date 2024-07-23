@@ -1,4 +1,4 @@
-package github.pankajyogi.spring.jdbcrest.annotation;
+package com.github.pankajyogi.spring.jdbcrest.annotation;
 
 import org.springframework.core.annotation.AliasFor;
 import org.springframework.web.bind.annotation.RequestMapping;

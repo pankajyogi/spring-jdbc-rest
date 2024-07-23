@@ -1,4 +1,4 @@
-package github.pankajyogi.spring.jdbcrest.dbschema;
+package com.github.pankajyogi.spring.jdbcrest.dbschema;
 
 public interface DbSchemaService {
 
